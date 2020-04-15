@@ -1,0 +1,6 @@
+name = "anshul_modh_fsd"
+type = "javascript"
+account_id = "dc1c91c6887332d0ce07f596e5df1c56"
+workers_dev = true
+route = ""
+zone_id = ""
